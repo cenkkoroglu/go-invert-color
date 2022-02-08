@@ -1,0 +1,12 @@
+*.iml
+*.ipr
+*.iws
+.idea/
+/build/
+/dist/
+/out/
+coverage
+cover_out
+cover_out.html
+main
+main.zip
